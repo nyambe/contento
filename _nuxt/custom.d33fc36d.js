@@ -1,0 +1,1 @@
+import{z as t,k as s,Y as n,m as e,o as c}from"./entry.7ebd3335.js";const l={},r=e("p",null,"Custom Layout",-1),a=e("hr",null,null,-1);function u(o,_){return c(),s("div",null,[r,a,n(o.$slots,"default")])}const f=t(l,[["render",u]]);export{f as default};
